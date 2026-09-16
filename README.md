@@ -1,16 +1,32 @@
-## Hi there 👋
+# GUIYETTOK
 
-<!--
-**GUIYETTOK/GUIYETTOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automotive software engineer working on **LLM systems**: retrieval, knowledge graphs, and evaluation.
 
-Here are some ideas to get you started:
+I build things I can measure. Current focus is when graph structure actually helps language models, and when it is just extra cost.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Now
+
+- Comparing **RAG vs GraphRAG vs agentic search** under a fixed token/tool budget
+- Writing a short English working paper + public experiment harness
+- Background: application software verification for vehicle controllers, plus team AI work
+
+## Selected work
+
+| Project | What it shows |
+|---|---|
+| [rag-graph-agent-lab](https://github.com/GUIYETTOK/rag-graph-agent-lab) | Controlled comparison of retrieval methods. Metrics: answer quality, faithfulness, cost, latency. |
+
+## Stack
+
+`Python` · `retrieval evaluation` · `knowledge graphs` · `Git`
+
+Comfortable turning structured engineering artifacts into graphs and measuring whether an LLM stays faithful to them. Employer code is not in this account.
+
+## Contact
+
+- GitHub: [GUIYETTOK](https://github.com/GUIYETTOK)
+- X: [@Baronngxt](https://x.com/Baronngxt)
+
+---
+
+*Open to roles in LLM application engineering, evaluation, and applied AI.*
